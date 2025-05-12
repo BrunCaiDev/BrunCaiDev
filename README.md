@@ -18,6 +18,17 @@ Salve! Me chamo Caio Bruno, tenho 18 anos. Sou um novato nessa nova caminhada na
 ---
 
 
+<br>
+<div align="center">
+  <a href="https://open.spotify.com/user/21k3nye57fpgsxorxbahnht3a">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21k3nye57fpgsxorxbahnht3a&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
+---
+
+
 ## Redes Sociais🌐
 
 <a href="https://www.instagram.com/caio_bruno_0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -31,5 +42,17 @@ Salve! Me chamo Caio Bruno, tenho 18 anos. Sou um novato nessa nova caminhada na
 
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+
+
+
+
+
+
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunCaiDev/BrunCaiDev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrunCaiDev/BrunCaiDev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BrunCaiDev/BrunCaiDev/output/pacman-contribution-graph.svg">
+</picture>
 
 
