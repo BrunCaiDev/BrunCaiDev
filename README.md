@@ -13,7 +13,7 @@ Salve! Me chamo Caio Bruno, tenho 18 anos. Sou um novato nessa nova caminhada na
 
 ➠ Meu artista favorito é o "Daniel Caesar" (o cara é mídia dms)
 
-➠ Pepum é o gato mais daora que existe
+➠ Pepum
 
 ---
 
