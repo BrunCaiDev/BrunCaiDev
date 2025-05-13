@@ -24,7 +24,7 @@ Salve! Me chamo Caio Bruno, tenho 18 anos. Sou um novato nessa nova caminhada na
 
 --- 
 
-> _"O mundo não é bom nem mau, ele apenas é"_ 
+> _"O mundo não está errado, ele apenas existe."_ 
 > — **???**
 
 
