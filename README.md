@@ -24,8 +24,8 @@ Salve! Me chamo Caio Bruno, tenho 18 anos. Sou um novato nessa nova caminhada na
 
 --- 
 
-> _"O mundo não está errado, ele apenas existe."_ 
-> — **???**
+
+
 
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
